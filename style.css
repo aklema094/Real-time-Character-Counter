@@ -27,3 +27,18 @@ body{
     box-sizing: border-box;
     border: solid 2px darkgray;
 }
+.counter-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+}
+.counter-containe p{
+    font-size: 18px;
+    color: gray;
+}
+.total-counter{
+    color: slateblue;
+}
+.remaining-counter{
+    color: orangered;
+}
