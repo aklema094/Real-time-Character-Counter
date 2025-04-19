@@ -30,9 +30,9 @@ A simple yet effective **real-time character counter** web application built usi
 
 Clone the repository using Git:  
 ```bash
-git clone https://github.com/aklema094/Real-time-Character-Counter.git
+git clone https://github.com/luminous44/Real-time-Character-Counter.git
 ```
 
-Or download the ZIP file manually from [here](https://github.com/aklema094/Real-time-Character-Counter/archive/refs/heads/main.zip)
+Or download the ZIP file manually from [here](https://github.com/luminous44/Real-time-Character-Counter/archive/refs/heads/main.zip)
 
 
